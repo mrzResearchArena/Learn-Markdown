@@ -18,7 +18,7 @@ Outlook: [ [Website](http://rafsanjani.pythonanywhere.com/) ] ; Corresponding co
 &nbsp;&nbsp;
 
 ## 2. Essential
-Outlook: <line gap> ; Corresponding code: `&nbsp;`
+Outlook: [line gap] ; Corresponding code: `&nbsp;`
  
 &nbsp;&nbsp;
 
