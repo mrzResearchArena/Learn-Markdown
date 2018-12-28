@@ -1,7 +1,7 @@
 ## Learn-Markdown (.md)
 
 ## 0. Atom Markdown Preview Shortcut
-control + shift + m`
+control + shift + m
 
 ## 1. Working Process
 Outlook: __rafsanjani__ ; Corresponding code: `__rafsanjani__`
