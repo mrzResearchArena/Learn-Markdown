@@ -1,9 +1,16 @@
 ## Learn Markdown (.md, .MD)
 
-## 0. Atom Markdown Preview Shortcut
-`control + shift + M`
+## 1. Font Size
 
-## 1. Working Process Text
+# Rafsanjani ; Corresponding code: `# Rafsanjani`
+## Rafsanjani ; Corresponding code: `## Rafsanjani`
+### Rafsanjani ; Corresponding code: `### Rafsanjani`
+#### Rafsanjani ; Corresponding code: `#### Rafsanjani`
+##### Rafsanjani ; Corresponding code: `##### Rafsanjani`
+###### Rafsanjani ; Corresponding code: `###### Rafsanjani`
+
+## 2. Working Process Text
+
 Outlook: __rafsanjani__ ; Corresponding code: `__rafsanjani__`
 
 Outlook: **rafsanjani** ; Corresponding code: `**rafsanjani**`
@@ -17,15 +24,11 @@ Outlook: [ [Website](http://rafsanjani.pythonanywhere.com/) ] ; Corresponding co
   * A2
     * B`
 
-# Rafsanjani ; Corresponding code: `# Rafsanjani`
-## Rafsanjani ; Corresponding code: `## Rafsanjani`
-### Rafsanjani ; Corresponding code: `### Rafsanjani`
-#### Rafsanjani ; Corresponding code: `#### Rafsanjani`
-##### Rafsanjani ; Corresponding code: `##### Rafsanjani`
-###### Rafsanjani ; Corresponding code: `###### Rafsanjani`
 
-
-## 2. Working Process Image
+## 3. Working Process Image and Video
 
 Outlook: ![myPicture](https://github.com/mrzResearchArena/Learn-Markdown/blob/master/mrz.jpg) ; Corresponding code: `![myPicture](https://github.com/mrzResearchArena/Learn-Markdown/blob/master/mrz.jpg)`
+
+## 0. Atom Markdown Preview Shortcut
+`control + shift + M`
 
