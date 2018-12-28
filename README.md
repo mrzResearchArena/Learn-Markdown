@@ -4,7 +4,8 @@
 control + shift + m`
 
 ## 1. Working Process
-__rafsanjani__ code: `__rafsanjani__`
+Outlook: __rafsanjani__; Corresponding code: `__rafsanjani__`
 
-<kbd>__rafsanjani__</kbd> code: `<kbd>__rafsanjani__</kbd>` 
+Outlook: <kbd>__rafsanjani__</kbd>; Corresponding code: `<kbd>__rafsanjani__</kbd>`
+
 
