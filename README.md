@@ -1,4 +1,4 @@
-## Learn-Markdown (.md)
+## Learn Markdown (.md, .MD)
 
 ## 0. Atom Markdown Preview Shortcut
 `control + shift + M`
