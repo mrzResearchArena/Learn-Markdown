@@ -1,4 +1,4 @@
-## Learn Markdown (.md, .MD)
+## Learn Markdown (.md, .markdown)
 
 ## 1. Working Process Text
 
