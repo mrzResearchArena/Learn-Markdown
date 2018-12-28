@@ -12,3 +12,5 @@ Outlook: <kbd>__rafsanjani__</kbd> ; Corresponding code: `<kbd>__rafsanjani__</k
 
 Outlook: [ [Website](http://rafsanjani.pythonanywhere.com/) ] ; Corresponding code: `[ [Website](http://rafsanjani.pythonanywhere.com/) ]`
 
+Outlook: ![myPicture](https://github.com/mrzResearchArena/Learn-Markdown/blob/master/mrz.jpg)
+
