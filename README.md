@@ -9,8 +9,8 @@
 ##### Rafsanjani ; Corresponding code: `##### Rafsanjani`
 ###### Rafsanjani ; Corresponding code: `###### Rafsanjani`
 
-&nbsp
-&nbsp
+&nbsp;
+&nbsp;
 
 ## 2. Working Process Text
 
@@ -27,15 +27,15 @@ Outlook: [ [Website](http://rafsanjani.pythonanywhere.com/) ] ; Corresponding co
   * A2
     * B`
 
-&nbsp
-&nbsp
+&nbsp;
+&nbsp;
 
 ## 3. Working Process Image and Video
 
 Outlook: ![myPicture](https://github.com/mrzResearchArena/Learn-Markdown/blob/master/mrz.jpg) ; Corresponding code: `![myPicture](https://github.com/mrzResearchArena/Learn-Markdown/blob/master/mrz.jpg)`
 
-&nbsp
-&nbsp
+&nbsp;
+&nbsp;
 
 ## 0. Atom Markdown Preview Shortcut
 `control + shift + M`
