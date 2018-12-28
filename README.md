@@ -4,5 +4,6 @@
 control + shift + m`
 
 ## 1. Working Process
-__rafsanjani__ code __rafsanjani__ <kbd>__rafsanjani__</kbd>
+__rafsanjani__ code: `__rafsanjani__` 
+<kbd>__rafsanjani__</kbd> code: `<kbd>__rafsanjani__</kbd>` 
 
