@@ -19,6 +19,8 @@ Outlook: [ [Website](http://rafsanjani.pythonanywhere.com/) ] ; Corresponding co
 
 ## 2. Essential
 Outlook: <line gap> ; Corresponding code: `&nbsp;`
+ 
+&nbsp;&nbsp;
 
 ## 3. Font Size
 
