@@ -10,13 +10,14 @@ Outlook: <kbd>__rafsanjani__</kbd> ; Corresponding code: `<kbd>__rafsanjani__</k
 
 Outlook: [ [Website](http://rafsanjani.pythonanywhere.com/) ] ; Corresponding code: `[ [Website](http://rafsanjani.pythonanywhere.com/) ]`
 
-
+Outlook:
 * 1 Head
   * 1.1 Head
   * 1.2 Head
     * 1.2.1 Head
     * 1.2.2 Head
 
+Outlook:
 - 1 Head
   - 1.1 Head
   - 1.2 Head
