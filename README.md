@@ -10,7 +10,7 @@ Outlook: <kbd>__rafsanjani__</kbd> ; Corresponding code: `<kbd>__rafsanjani__</k
 
 Outlook: [ [Website](http://rafsanjani.pythonanywhere.com/) ] ; Corresponding code: `[ [Website](http://rafsanjani.pythonanywhere.com/) ]`
 
-Outlook: Hide Text<!-- This is commented out! --> ; Corresponding code:`<!-- This is commented out! -->`
+Outlook: Hide Text<!-- This is commented out! --> ; Corresponding code: `<!-- This is commented out! -->`
 
 Outlook:
 * 1 Head
